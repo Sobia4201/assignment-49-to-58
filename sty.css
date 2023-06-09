@@ -1,0 +1,15 @@
+.item {
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin-bottom: 10px;
+  }
+  
+  .item .details {
+	display: none;
+  }
+  
+  .item .read-more {
+	color: blue;
+	cursor: pointer;
+  }
+  
